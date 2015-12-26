@@ -1,0 +1,5 @@
+Blaze: Composable Probabilistic Inference
+
+This library provides a set of language tools for experimenting with and performing probabilistic inference.
+
+It is inspired by the language sketched in Keith A. Bonawitz's Ph.D. dissertation "Composable Probabilistic Inference with Blaise".

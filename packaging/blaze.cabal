@@ -1,0 +1,15 @@
+Name:                blaze
+Version:             0.1
+Description:         Lossy implementation of Bonawitz's Blaise
+License:             BSD3
+License-file:        LICENSE
+Data-files:          README
+Author:              Daniel Klein
+Maintainer:          daniel_klein@brown.edu
+Build-depends:       base,
+                     logfloat,
+                     hmatrix,
+                     MonadRandom
+Exposed-modules:     Math.Statistics.Inference.Blaze,
+                     Data.BlazeTree
+Build-type:          Simple
