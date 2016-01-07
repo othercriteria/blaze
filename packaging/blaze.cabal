@@ -1,11 +1,11 @@
 Name:                blaze
 Version:             0.1
 Description:         Lossy implementation of Bonawitz's Blaise
-License:             BSD3
+License:             MIT
 License-file:        LICENSE
 Data-files:          README
 Author:              Daniel Klein
-Maintainer:          daniel_klein@brown.edu
+Maintainer:          othercriteria@gmail.com
 Build-depends:       base,
                      logfloat,
                      hmatrix,
